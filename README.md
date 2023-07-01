@@ -25,7 +25,8 @@
 
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/4-5b65135951a14aa9974cc729c3eaaa00?pvs=4)
-[![Tistory](https://img.shields.io/badge/tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://eivomin.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://eivomin.tistory.com/)
+<a href="mailto:eivomiin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=eivomiin@gmail.com"/></a>
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eivomin&layout=compact"><br><br>
